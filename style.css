@@ -1,0 +1,41 @@
+body{
+    background: #2b2c2f;
+    font-family: sans-serif;
+    padding: 40px;
+}
+.introduction{
+    margin-top: 15%;
+    color: #c1c1c2;
+    font-size: 20px;
+    
+}
+.name{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.title{
+    margin-top: 20px;
+    color: #ec6d88;
+    font-size: 25px;
+}
+
+.location{
+    margin-top: 20px;
+    color: #c1c1c2;
+    font-size: 15px;
+}
+
+
+button{
+    margin-top: 20px;
+    font-size: 15px;
+    color: #ec6d88;
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+}
+    
